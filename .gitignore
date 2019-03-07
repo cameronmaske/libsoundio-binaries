@@ -1,0 +1,5 @@
+*.DS_Store
+build/libsoundio
+build/win
+build/linux
+build/osx
